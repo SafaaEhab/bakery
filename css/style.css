@@ -10,9 +10,9 @@
 
 header {
     background-image: url(../uploads/bakery.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 77vh;
-    height: 76vh;
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 95vh;
 }
 
 nav{
